@@ -65,7 +65,7 @@ Page 3: Main Dashboard
 
 ○	Actions: Each conflict item has a "Resolve" button.
 
-Page 6: Academic Planning - Create New Examination
+                        Page 6: Academic Planning - Create New Examination
 
 
 
@@ -82,7 +82,7 @@ Page 6: Academic Planning - Create New Examination
 
 
 
-Page 7: Academic Planning - Examination Schedule (List View)
+                Page 7: Academic Planning - Examination Schedule (List View)
 
 ●	Purpose: To display "All scheduled examinations for current semester" in a filterable table.
 
@@ -95,7 +95,7 @@ Page 7: Academic Planning - Examination Schedule (List View)
 
 
 
-Page 8: Academic Planning - Master Examination Timetable
+                  Page 8: Academic Planning - Master Examination Timetable
 
 ●	Purpose: To provide a "Complete overview of all examinations"  in a visual calendar format.
 
@@ -104,7 +104,7 @@ Page 8: Academic Planning - Master Examination Timetable
 
 
 
-Page 9: Student Services - Admit Card Management
+                  Page 9: Student Services - Admit Card Management
 
 ●	Purpose: This screen is for managing "student registrations, admissions, and examination records" , with a specific focus on "Admit Card Management".
 
@@ -118,7 +118,7 @@ Page 9: Student Services - Admit Card Management
 
 
 
-Page 10: Student Services - Eligibility Verification
+                  Page 10: Student Services - Eligibility Verification
 
 ●	Purpose: To "Review and verify student eligibility for examinations".
 
@@ -130,23 +130,28 @@ Page 10: Student Services - Eligibility Verification
 ○	Actions: Each student on the list has a "Review" button.
 
 
-Page 11: Student Services - Student Exam Registration
+                    Page 11: Student Services - Student Exam Registration
+                    
 ●	Purpose: To "Manage student enrollments for examinations," allowing administrators to track registration status and data.
+
 ●	Key Components:
+
 ○	Module Stats: Shows total "Pending" registrations (156) and "Admit Cards" generated (2,543).
 ○	Student List: A detailed table listing students with columns for: "Student ID," "Name," "Program," "Exams Registered," "Registration Date," "Status" (e.g., "Confirmed," "Pending Payment"), and "Actions" (View).
 ○	Actions: Includes "Export Data" and "Bulk Upload" for handling large datasets.
 
-Page 12: Student Services - Special Requests
+                    Page 12: Student Services - Special Requests
+                    
 ●	Purpose: To manage student requests that fall outside the standard process, such as special accommodations or changes to exam registration.
 ●	Key Components:
+
 ○	Requests List: A table showing "Request ID," "Student ID," "Request Type" (e.g., "Special Needs Accommodation," "Change Venue"), "Submitted Date," and "Status" (e.g., "Pending Review," "Approved").
 ○	Action: Each request has a "Review Request" button to view full details and approve/reject the application.
 
 
 
 
-Page 13: Quality & Evaluation - Review Feedback (Card View)
+                            Page 13: Quality & Evaluation - Review Feedback (Card View)
 
 ●	Purpose: This screen for the "Quality & Evaluation" module is used to display "Review Feedback & Comments" provided to faculty members.
 
@@ -161,16 +166,16 @@ Page 13: Quality & Evaluation - Review Feedback (Card View)
 
 
 
-Page 14: Quality & Evaluation - Quality Standards Checklist
+                    Page 14: Quality & Evaluation - Quality Standards Checklist
 
-●	Purpose: A reference screen that defines the "Evaluation criteria for question papers"  for the QA team.
+    ●	Purpose: A reference screen that defines the "Evaluation criteria for question papers"  for the QA team.
 
-●	Key Components:
-○	Checklist: A list of quality standards and their percentage weightage.
+    ●	Key Components:
+    ○	Checklist: A list of quality standards and their percentage weightage.
 
-○	Standards: Includes "Learning Outcomes Alignment" (20%), "Cognitive Level Distribution" (15%), "Question Clarity" (25%), "Marking Scheme" (15%), and "Difficulty Balance" (20%).
-
-○	Module Stats: The same summary stats ("Papers Reviewed," "Approved") are shown on this screen as well.
+    ○	Standards: Includes "Learning Outcomes Alignment" (20%), "Cognitive Level Distribution" (15%), "Question Clarity" (25%), "Marking Scheme" (15%), and "Difficulty Balance" (20%).
+    
+    ○	Module Stats: The same summary stats ("Papers Reviewed," "Approved") are shown on this screen as well.
 
 
 
