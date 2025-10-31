@@ -180,7 +180,7 @@ Page 3: Main Dashboard
 
 
 
-Page 15: Quality & Evaluation - Review Feedback (List View)
+                      Page 15: Quality & Evaluation - Review Feedback (List View)
 
 ●	Purpose: An alternative view of the "Review Feedback & Comments", presented as a list with clear status tags.
 
@@ -193,7 +193,7 @@ Page 15: Quality & Evaluation - Review Feedback (List View)
 
 
 
-Page 16: Quality & Evaluation - Question Paper Review Queue
+                            Page 16: Quality & Evaluation - Question Paper Review Queue
 
 ●	Purpose: This is the main dashboard for the QA team, showing the "Question Paper Review Queue" for "papers pending quality assurance review".
 
@@ -205,7 +205,7 @@ Page 16: Quality & Evaluation - Question Paper Review Queue
 
 
 
-Page 17: Pre-Exam Operations -  Invigilator Assignment
+                              Page 17: Pre-Exam Operations -  Invigilator Assignment
 
 ●	Purpose: To effectively assign and manage invigilators for scheduled examinations based on venue capacity and requirements.
 ●	Key Components:
@@ -219,7 +219,7 @@ ________________________________________
 
 
 
-Page 18: Pre-Exam Operations- Printing Queue & Distribution
+                                            Page 18: Pre-Exam Operations- Printing Queue & Distribution
 
 ●	Purpose: This interface manages the final, secure processes of printing and physical distribution of question papers to the relevant personnel (Distributors) before the exam. This is a critical step for maintaining document security.
 ●	Key Components:
@@ -230,7 +230,7 @@ Page 18: Pre-Exam Operations- Printing Queue & Distribution
 ○	Distribution Assignment: Shows the Distributor (e.g., John Smith) assigned for paper collection or indicates "Pending" assignment.
   
 
-Page 19: Pre-Exam Operations - Question Paper Repository
+                                                Page 19: Pre-Exam Operations - Question Paper Repository
 
 ●	Purpose: This screen for "Pre-Exam Operations" provides "Secure storage and management of examination papers".
 
@@ -242,7 +242,7 @@ Page 19: Pre-Exam Operations - Question Paper Repository
 
 
 
-Page 20: Pre-Exam Operations - Security & Access Control
+                                              Page 20: Pre-Exam Operations - Security & Access Control
 
 ●	Purpose: To "Monitor security protocols and access logs"  for sensitive exam materials.
 
@@ -254,7 +254,7 @@ Page 20: Pre-Exam Operations - Security & Access Control
 
 
 
-Page 21: Placeholder Interface
+                                                    Page 21: Placeholder Interface
 
 ●	Purpose: This page appears to be a blank placeholder or a corrupted/missing image in the PDF.
 ●	Key Components: A single black box.
@@ -263,7 +263,7 @@ ________________________________________
 
 
 
-Page 22: Logistics Management-Seating Plan Generation
+                                            Page 22: Logistics Management-Seating Plan Generation
 
 ●	Purpose: This screen is designed to create and manage examination seating arrangements. It ensures that students are assigned to venues according to capacity and required spacing.
 ●	Key Components:
@@ -275,7 +275,7 @@ Page 22: Logistics Management-Seating Plan Generation
 
 
 
-Page 23: Logistics Management - Dashboard
+                                                    Page 23: Logistics Management - Dashboard
 
 ●	Purpose: This is the main dashboard for the "Logistics Management" module, used to manage venues and materials. The primary navigation within the module is visible, including "Venue Booking," "Seating Arrangement," "Material & Equipment," and "Transport & Logistics".
 ●	Key Components:
@@ -289,7 +289,7 @@ Page 23: Logistics Management - Dashboard
 
 
 
-Page 24:  Logistics Management-Transport & Distribution
+                                          Page 24:  Logistics Management-Transport & Distribution
 ●	Purpose: This screen is designed to manage the transportation of materials and personnel related to the examination process, ensuring everything reaches the correct venue on time.
 ●	Key Components:
 ○	Module Stats (KPIs): Displays key metrics for logistics, including "Total Venues" (15), "Booked Venues" (12), "Seating Plans" (8), and "Material Requests" (23)
@@ -300,7 +300,7 @@ Page 24:  Logistics Management-Transport & Distribution
 ■	Route 3 (Scheduled): From Storage → Lecture Hall 3, carrying Equipment, Stationery, scheduled for 2025-10-30 at 01:00 PM 
 
 
-Page 25: Results & Appeals - Dashboard
+                                                        Page 25: Results & Appeals - Dashboard
 
 ●	Purpose: This is the main screen for the "Result & Appeals" module , used to "Process results, manage appeals, and publish grades".
 
@@ -311,7 +311,7 @@ Page 25: Results & Appeals - Dashboard
 
 ○	Appeals Queue: A list of submitted appeals, each with an ID ("APP-2025-001"), Student ID, Course, "Type" ("Rechecking," "Re-Marking") , and "Status" ("Under Review," "Completed," "Pending Assignment"). Each item has a "Process" button.
 
-Page 26:Results & Appeals- Result Verification & Approval
+                                      Page 26:Results & Appeals- Result Verification & Approval
 ●	Purpose: To Verify accuracy and approve results for publication by moderators and Heads of Departments (HODs) 
 ●	Key Components:
 ○	Module Navigation: Clear tabs are present for the results workflow: Verification, Appeals, and Publication Extract
@@ -321,7 +321,7 @@ Page 26:Results & Appeals- Result Verification & Approval
 
 
 
-Page 27: Results & Appeals-Result Publication
+                            Page 27: Results & Appeals-Result Publication
 ●	Purpose: To Publish verified results to students and stakeholders Extract[26-28].pdf].
 ●	Key Components:
 ○	Module Stats (KPIs): Displays the status of result processing: Results Processed (18/32), Published (12), Appeals Pending (7), and the overall Pass Rate (87.3%)
@@ -331,10 +331,10 @@ Page 27: Results & Appeals-Result Publication
 
 
 
-Page 28:Results & Appeals- Appeal Review & Assignment
+                                          Page 28:Results & Appeals- Appeal Review & Assignment
 ●	Purpose: This screen is used to Process and review student grade appeals and monitor the re-marking progress 
 ●	Key Components:
-○	Appeal Queue: Lists appeals (e.g., APP-2025-001) in a table/list format Extract[26-28].pdf].
+○	Appeal Queue: Lists appeals (e.g., APP-2025-001) in a table/list format .
 ○	Appeal Data: Each entry includes the Appeal ID, Student ID, Course (e.g., CS3042), Type of appeal (Rechecking or Re-totaling), and the Submitted Date Extract.
 ○	Status/Progress: Shows the current status of the appeal (e.g., Completed for APP-2025-004) 
 ○	Marking Progress: A separate section monitors the re-marking status for courses (e.g., Database Systems is 100% complete and Verified, while Engineering Mathematics is 89% complete and Marking in Progress) 
