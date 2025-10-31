@@ -1,9 +1,11 @@
 
-________________________________________
-UI/UX Prototype: Page-by-Page Interface Breakdown
+          ________________________________________
+        UI/UX Prototype: Page-by-Page Interface Breakdown
 
-This repository contains the Figma UI/UX design prototype for the NSBM Examination Management System. The following is a detailed description of every page included in the design PDF file.
-Page 1: Title Page 
+      This repository contains the Figma UI/UX design prototype for the NSBM Examination Management System. The following is a detailed description of every page included in the design PDF file.
+  
+  
+          Page 1: Title Page 
 
 ●	Purpose: This is the cover page for the UI design report.
 ●	Key Components:
@@ -15,13 +17,13 @@ Page 1: Title Page
 
 ○	The official link to the Figma prototype.
 
-Page 2: Group Members 
+            Page 2: Group Members 
 
 ●	Purpose: To list the student members who contributed to the project.
 
 ●	Key Components: A table listing the "Student ID" and "Name" for all 11 group members.
 
-Page 3: Main Dashboard
+      Page 3: Main Dashboard
 
 
 ●	Purpose: This is the central landing page for a System Administrator ("John Doe, System Administrator" ). It provides a high-level summary of the entire "Examination Management System"11.
@@ -266,10 +268,14 @@ ________________________________________
                                             Page 22: Logistics Management-Seating Plan Generation
 
 ●	Purpose: This screen is designed to create and manage examination seating arrangements. It ensures that students are assigned to venues according to capacity and required spacing.
+
 ●	Key Components:
 ○	Module Stats (KPIs): Displays key metrics for logistics, including "Total Venues" (15), "Booked Venues" (12), "Seating Plans" (8), and "Material Requests" (23).
+
 ○	Action Buttons (General): Includes "Generate Seating" and "Book Venue" buttons for quick access to main logistics tasks.
+
 ○	Main Seating Actions: Features tools for generating seating: "Auto-Generate Seating" (for automated planning), "Import Seating Plan", and a general "Generate Plan" button.
+
 ○	Seating List: A list of courses for which a seating plan has been created (e.g., Database Systems, Financial Accounting). Each entry shows the Venue and the Student Count (e.g., Main Hall A • 145 students).
 ○	Plan Actions: Once a plan is generated, users can "View Plan", "Download Pdf", and "Print" the seating chart.
 
@@ -278,9 +284,12 @@ ________________________________________
                                                     Page 23: Logistics Management - Dashboard
 
 ●	Purpose: This is the main dashboard for the "Logistics Management" module, used to manage venues and materials. The primary navigation within the module is visible, including "Venue Booking," "Seating Arrangement," "Material & Equipment," and "Transport & Logistics".
+
 ●	Key Components:
+
 ○	Module Stats (KPIs): The dashboard provides key statistics for logistical oversight, including "Total Venues" (15) , "Booked Venues" (12) , "Seating Plans" (8) , and "Material Requests" (23).
 ○	Action Buttons: Quick actions available are "Generate Seating" and "Book Venue".
+
 ○	Materials & Equipment Management: This section is designed to "Track and manage exam materials and equipment". It provides a detailed inventory status:
 ■	Answer Booklets (For: Database Systems): Total Quantity is 3000 , with 2500 allocated and 500 available. The status is Sufficient.
 ■	Graph Paper (For: Engineering Mathematics): Total Quantity is 500 , with 450 allocated and 50 available. The status is Sufficient.
@@ -291,10 +300,12 @@ ________________________________________
 
                                           Page 24:  Logistics Management-Transport & Distribution
 ●	Purpose: This screen is designed to manage the transportation of materials and personnel related to the examination process, ensuring everything reaches the correct venue on time.
+
 ●	Key Components:
 ○	Module Stats (KPIs): Displays key metrics for logistics, including "Total Venues" (15), "Booked Venues" (12), "Seating Plans" (8), and "Material Requests" (23)
 ○	Action Buttons: Includes "Generate Seating" and "Book Venue" buttons for quick access to main logistics tasks 
 ○	Transport Schedule: A list of scheduled transports with status tracking:
+
 ■	Route 1 (Scheduled): From Main Campus → Exam Center A, carrying Question Papers, Answer Booklets, scheduled for 2025-10-29 at 07:30 AM 
 ■	Route 2 (In Transit): From Print Center → Main Hall A, carrying Printed Materials, scheduled for 2025-10-29 at 08:00 AM 
 ■	Route 3 (Scheduled): From Storage → Lecture Hall 3, carrying Equipment, Stationery, scheduled for 2025-10-30 at 01:00 PM 
@@ -313,7 +324,9 @@ ________________________________________
 
                                       Page 26:Results & Appeals- Result Verification & Approval
 ●	Purpose: To Verify accuracy and approve results for publication by moderators and Heads of Departments (HODs) 
+
 ●	Key Components:
+
 ○	Module Navigation: Clear tabs are present for the results workflow: Verification, Appeals, and Publication Extract
 ○	Result Cards: Results are presented in cards for courses like Database Systems and Financial Accounting Extract
 ○	Verification Data: Each card shows the assigned Examiner and Moderator, the Total Students (e.g., 145), and the calculated Pass Rate (e.g., 89.6% for Database Systems) 
@@ -322,8 +335,10 @@ ________________________________________
 
 
                             Page 27: Results & Appeals-Result Publication
-●	Purpose: To Publish verified results to students and stakeholders Extract[26-28].pdf].
+●	Purpose: To Publish verified results to students and stakeholders.
+
 ●	Key Components:
+
 ○	Module Stats (KPIs): Displays the status of result processing: Results Processed (18/32), Published (12), Appeals Pending (7), and the overall Pass Rate (87.3%)
 ○	Action Buttons: Includes Publish Results (for queued results), Download Transcripts, and Send Notifications 
 ○	Publication List: Lists courses that have already been published (e.g., Database Systems, Financial Accounting, Data Structures) 
@@ -332,8 +347,10 @@ ________________________________________
 
 
                                           Page 28:Results & Appeals- Appeal Review & Assignment
-●	Purpose: This screen is used to Process and review student grade appeals and monitor the re-marking progress 
+●	Purpose: This screen is used to Process and review student grade appeals and monitor the re-marking progress.
+
 ●	Key Components:
+
 ○	Appeal Queue: Lists appeals (e.g., APP-2025-001) in a table/list format .
 ○	Appeal Data: Each entry includes the Appeal ID, Student ID, Course (e.g., CS3042), Type of appeal (Rechecking or Re-totaling), and the Submitted Date Extract.
 ○	Status/Progress: Shows the current status of the appeal (e.g., Completed for APP-2025-004) 
