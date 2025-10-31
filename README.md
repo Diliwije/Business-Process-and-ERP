@@ -41,7 +41,7 @@ Page 3: Main Dashboard
 
 ○	System Alerts: Notifications for "Deadline Approaching," "Action Required," and "Scheduled Maintenance".
 
-Page 4: Academic Planning - Academic Calendar
+                        Page 4: Academic Planning - Academic Calendar
 
 
 ●	Purpose: This screen is the dashboard for the "Academic Planning" module. Its main function here is "Academic Calendar Management" , allowing an admin to "Configure examination periods and important dates".
@@ -53,7 +53,8 @@ Page 4: Academic Planning - Academic Calendar
 
 ○	Calendar Dates: A list of key academic dates, each with a start and end date, such as "Mid-Semester Examinations" and "Final Examinations".
 
-Page 5: Academic Planning - Conflict Resolution
+                        Page 5: Academic Planning - Conflict Resolution
+
 
 ●	Purpose: This screen is dedicated to identifying and "Detected scheduling conflicts" that require resolution.
 
